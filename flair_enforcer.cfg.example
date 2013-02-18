@@ -1,0 +1,4 @@
+[reddit]
+user_agent = %(username)s - Flair enforcer
+username = username
+password = password
